@@ -4,5 +4,5 @@ Implementation of **Blockchain** technology in a secure industrial process withi
 - Blockchain using Proof of Authorization
 
 Each approach is a **complete** application, and has the following files:
-- Front and Back end for client side
-- Front and Back end for server side
+- Front and Back End for client side
+- Front and Back End for server side
